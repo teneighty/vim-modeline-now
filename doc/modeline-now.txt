@@ -1,0 +1,10 @@
+*modeline-now.txt*  Add/replace a modeline to an existing file.
+
+Author:  Tim Horton <tmhorton@gmail.com>
+License: Same terms as Vim itself (see |license|)
+
+                                                *modeline-now-:ModelineOpts*
+:ModelineOpts           Specify which options you want included in the
+                        modeline.
+
+ vim:tw=78:et:ft=help:norl:
