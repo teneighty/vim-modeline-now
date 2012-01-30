@@ -1,0 +1,4 @@
+modeline-now.vim
+================
+
+Add a modeline or update an existing modeline. 
